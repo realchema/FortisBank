@@ -1,0 +1,66 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.5\lib\idea_rt.jar=6660:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.5\bin" -Dfile.encoding=UTF-8 -classpath C:\Fall18\Java\FortisBankPart1\out\production\FortisBankPart1 prod.TESTER
+----------------------------------------------------------
+Customer: Mr.Sanjeev,Tharm- Birthdate: (21-6-1999)
+(514)9296108
+303-Rue Edmond-Larivee, H7L0A4
+Laval,Quebec,Canada
+sanjeev21@icloud.com
+Identification Number: 1
+Accounts: [Customer ID: 1's
+Account Number: 1234: Balance: 448.5, Creation date of account(1-11-2018), Cheque Account Transactions: [
+1: 50.0, FOOD, (1-11-2018), Withdraw
+,
+2: 50.0, ATM, (1-11-2018), Withdraw
+,
+3: 50.0, ATM, (1-11-2018), Withdraw
+,
+4: 50.0, ATM, (1-11-2018), Withdraw
+,
+5: 50.0, ATM, (1-11-2018), Withdraw
+,
+6: 50.0, ATM, (1-11-2018), Withdraw
+,
+7: 50.0, ATM, (1-11-2018), Withdraw
+]
+Fees: 1.5
+Additional charges of .50$ for every transaction above the limit. This fee has already been redacted in your balance., Customer ID: 1's
+Account Number: 5431: Balance: 900.0, Creation date of account(1-11-2018), Credit Account Transactions: [
+1: 50.0, FOOD, (1-11-2018), Withdraw
+,
+2: 50.0, ATM, (1-11-2018), Withdraw
+]
+Credit Card No.: 4728456
+Available Credit: 900.0
+Limit: 1000.0]
+Do you want to delete Cheque?
+y
+Cannot the delete the main acount
+Do you want to delete Credit?
+y
+DONE
+Customer: Mr.Sanjeev,Tharm- Birthdate: (21-6-1999)
+(514)9296108
+303-Rue Edmond-Larivee, H7L0A4
+Laval,Quebec,Canada
+sanjeev21@icloud.com
+Identification Number: 1
+Accounts: [Customer ID: 1's
+Account Number: 1234: Balance: 97.0, Creation date of account(1-11-2018), Cheque Account Transactions: [
+1: 50.0, FOOD, (1-11-2018), Withdraw
+,
+2: 50.0, ATM, (1-11-2018), Withdraw
+,
+3: 50.0, ATM, (1-11-2018), Withdraw
+,
+4: 50.0, ATM, (1-11-2018), Withdraw
+,
+5: 50.0, ATM, (1-11-2018), Withdraw
+,
+6: 50.0, ATM, (1-11-2018), Withdraw
+,
+7: 50.0, ATM, (1-11-2018), Withdraw
+]
+Fees: 1.5
+Additional charges of .50$ for every transaction above the limit. This fee has already been redacted in your balance.]
+
+Process finished with exit code 0
